@@ -34,7 +34,7 @@ extensions = [
     'sphinx.ext.napoleon',
     'sphinx.ext.mathjax',
     'sphinx.ext.todo',
-    'sphinxcontrib.wavedrom',
+#    'sphinxcontrib.wavedrom',
 #    'breathe', # bug in ReadTheDocs
     'sphinx_tabs.tabs',
     'github',
